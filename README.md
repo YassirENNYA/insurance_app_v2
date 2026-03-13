@@ -220,5 +220,13 @@ Projet réalisé dans le cadre d'une analyse de fairness en assurance médicale.
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
+## 👥 Équipe
+
+Projet réalisé par :
+
+| Nom | Rôle |
+|---|---|
+| **Marielle Ladhari ** | Analyse de biais, visualisations, Modélisation ML |
+| **Yassir ENNYA ** | fairness , structure du code, design |
 
 *Dataset source : [Kaggle — Medical Insurance Cost](https://www.kaggle.com/datasets/mirichoi0218/insurance)*
